@@ -1,1 +1,1 @@
-add_lunch_combo bootleg_h930-userdebug
+add_lunch_combo cosp_h930-userdebug
